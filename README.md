@@ -11,14 +11,13 @@ W projekcie porównywane będą trzy podejścia:
 - iCEM (Improved Cross-Entropy Method).
 
 # Opis projektu
-Projekt polega na stworzeniu prostego środowiska symulacyjnego samochodu poruszającego się po zadanej trasie oraz implementacji kilku metod sterowania predykcyjnego.  
+Projekt polega na stworzeniu środowiska symulacyjnego samochodu poruszającego się po zadanej trasie oraz implementacji kilku metod sterowania predykcyjnego.  
 Głównym zadaniem będzie śledzenie trajektorii referencyjnej przez pojazd oraz porównanie jakości sterowania i kosztu obliczeniowego różnych podejść.
 
 # Cel
 - implementacja modelu samochodu i przygtowanie środowiska symulacyjnego,
-- przygotowanie toru / trajektorii referencyjnej,
 - implementacja podstawowego kontrolera pozwalającego na przejazd po trasie,
-- implementacja klasycznego MPC,
+- implementacja MPC,
 - implementacja CEM-MPC,
 - implementacja iCEM,
 - porównanie jakości sterowania oraz czasu obliczeń dla różnych metod.
