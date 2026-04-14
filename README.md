@@ -16,7 +16,6 @@ Głównym zadaniem będzie śledzenie trajektorii referencyjnej przez pojazd ora
 
 # Cel
 - implementacja modelu samochodu i przygtowanie środowiska symulacyjnego,
-- implementacja podstawowego kontrolera pozwalającego na przejazd po trasie,
 - implementacja MPC,
 - implementacja CEM-MPC,
 - implementacja iCEM,
